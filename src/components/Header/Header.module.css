@@ -1,0 +1,15 @@
+.headerTodo{
+    text-align: center;
+    padding: 64px 10px;
+    background-image: url(../../assets/background.webp);
+    background-size: cover;
+    color: white;
+}
+
+.title{
+    font-size: 48px;
+}
+
+.subtitle{
+    font-size: 18px;
+}
